@@ -1,0 +1,22 @@
+{
+  "name": "proof-harness",
+  "displayName": "Proof Harness",
+  "version": "0.1.0",
+  "description": "Agents finish with proof, not promises: spec-driven development with EARS criteria, evidence-before-done, context economy, session handoff, fresh-context review agents and safety hooks.",
+  "author": {
+    "name": "Billy Rojas Vindas"
+  },
+  "homepage": "https://github.com/billyjoseph008/proof-harness",
+  "repository": "https://github.com/billyjoseph008/proof-harness",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "harness",
+    "agents",
+    "skills",
+    "spec-driven-development",
+    "code-review",
+    "hooks",
+    "evidence"
+  ]
+}

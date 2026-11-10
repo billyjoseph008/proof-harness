@@ -1,0 +1,19 @@
+{
+  "name": "proof-harness",
+  "owner": {
+    "name": "Billy Rojas Vindas"
+  },
+  "metadata": {
+    "description": "Agents finish with proof, not promises. Skills, review agents, commands and safety hooks for Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "proof-harness",
+      "source": "./plugins/proof-harness",
+      "description": "Spec-driven development, evidence-before-done, context economy, session handoff, fresh-context review, and safety hooks.",
+      "version": "0.1.0",
+      "category": "development"
+    }
+  ]
+}
